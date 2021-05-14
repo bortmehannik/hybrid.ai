@@ -1,7 +1,6 @@
 {
   "name": "hybrid.ai",
   "version": "1.0.0",
-  "description": "Test question for hybrid.ai",
   "author": "Ivan Tishkov",
   "private": true,
   "scripts": {
